@@ -17,7 +17,7 @@
 <a href="https://fb.com/kien1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kien1605" height="30" width="40" /></a>
 <a href="https://instagram.com/lvkien16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvkien16" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lvkien16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lvkien16" height="30" width="40" /></a>
-<a href="https://discord.gg/kien1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kien1605" height="30" width="40" /></a>
+<a href="https://discord.gg/4CKf6ADGcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4CKf6ADGcQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
